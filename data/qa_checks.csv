@@ -1,0 +1,61 @@
+audience_id,check_area,check_name,status,severity,owner,remediation
+AUD-STREAM-01,Audience definition,Segment logic documented,Pass,Low,Discovery analyst,Keep definition in package appendix
+AUD-STREAM-01,Identity coverage,Household match rate above planning floor,Pass,Medium,Platform specialist,Add confidence caveat if below floor
+AUD-STREAM-01,Measurement,Pixel or event mapping aligned to KPI,Pass,High,Analytics,Confirm conversion event before activation
+AUD-STREAM-01,Narrative,Client-ready who what when where story,Pass,Low,Sales strategy,Review for non-technical language
+AUD-STREAM-01,Activation,DSP and SSP path mapped,Pass,Medium,Activation lead,Confirm audience export and deal path
+AUD-QSR-02,Audience definition,Segment logic documented,Pass,Low,Discovery analyst,Keep definition in package appendix
+AUD-QSR-02,Identity coverage,Household match rate above planning floor,Pass,Medium,Platform specialist,Add confidence caveat if below floor
+AUD-QSR-02,Measurement,Pixel or event mapping aligned to KPI,Pass,High,Analytics,Confirm conversion event before activation
+AUD-QSR-02,Narrative,Client-ready who what when where story,Pass,Low,Sales strategy,Review for non-technical language
+AUD-QSR-02,Activation,DSP and SSP path mapped,Pass,Medium,Activation lead,Confirm audience export and deal path
+AUD-AUTO-03,Audience definition,Segment logic documented,Pass,Low,Discovery analyst,Keep definition in package appendix
+AUD-AUTO-03,Identity coverage,Household match rate above planning floor,Pass,Medium,Platform specialist,Add confidence caveat if below floor
+AUD-AUTO-03,Measurement,Pixel or event mapping aligned to KPI,Pass,High,Analytics,Confirm conversion event before activation
+AUD-AUTO-03,Narrative,Client-ready who what when where story,Pass,Low,Sales strategy,Review for non-technical language
+AUD-AUTO-03,Activation,DSP and SSP path mapped,Pass,Medium,Activation lead,Confirm audience export and deal path
+AUD-TRAVEL-04,Audience definition,Segment logic documented,Pass,Low,Discovery analyst,Keep definition in package appendix
+AUD-TRAVEL-04,Identity coverage,Household match rate above planning floor,Pass,Medium,Platform specialist,Add confidence caveat if below floor
+AUD-TRAVEL-04,Measurement,Pixel or event mapping aligned to KPI,Pass,High,Analytics,Confirm conversion event before activation
+AUD-TRAVEL-04,Narrative,Client-ready who what when where story,Pass,Low,Sales strategy,Review for non-technical language
+AUD-TRAVEL-04,Activation,DSP and SSP path mapped,Pass,Medium,Activation lead,Confirm audience export and deal path
+AUD-FIN-05,Audience definition,Segment logic documented,Pass,Low,Discovery analyst,Keep definition in package appendix
+AUD-FIN-05,Identity coverage,Household match rate above planning floor,Pass,Medium,Platform specialist,Add confidence caveat if below floor
+AUD-FIN-05,Measurement,Pixel or event mapping aligned to KPI,Pass,High,Analytics,Confirm conversion event before activation
+AUD-FIN-05,Narrative,Client-ready who what when where story,Pass,Low,Sales strategy,Review for non-technical language
+AUD-FIN-05,Activation,DSP and SSP path mapped,Pass,Medium,Activation lead,Confirm audience export and deal path
+AUD-HEALTH-06,Audience definition,Segment logic documented,Pass,Low,Discovery analyst,Keep definition in package appendix
+AUD-HEALTH-06,Identity coverage,Household match rate above planning floor,Pass,Medium,Platform specialist,Add confidence caveat if below floor
+AUD-HEALTH-06,Measurement,Pixel or event mapping aligned to KPI,Pass,High,Analytics,Confirm conversion event before activation
+AUD-HEALTH-06,Narrative,Client-ready who what when where story,Pass,Low,Sales strategy,Review for non-technical language
+AUD-HEALTH-06,Activation,DSP and SSP path mapped,Pass,Medium,Activation lead,Confirm audience export and deal path
+AUD-RETAIL-07,Audience definition,Segment logic documented,Pass,Low,Discovery analyst,Keep definition in package appendix
+AUD-RETAIL-07,Identity coverage,Household match rate above planning floor,Pass,Medium,Platform specialist,Add confidence caveat if below floor
+AUD-RETAIL-07,Measurement,Pixel or event mapping aligned to KPI,Pass,High,Analytics,Confirm conversion event before activation
+AUD-RETAIL-07,Narrative,Client-ready who what when where story,Pass,Low,Sales strategy,Review for non-technical language
+AUD-RETAIL-07,Activation,DSP and SSP path mapped,Pass,Medium,Activation lead,Confirm audience export and deal path
+AUD-HOME-08,Audience definition,Segment logic documented,Pass,Low,Discovery analyst,Keep definition in package appendix
+AUD-HOME-08,Identity coverage,Household match rate above planning floor,Pass,Medium,Platform specialist,Add confidence caveat if below floor
+AUD-HOME-08,Measurement,Pixel or event mapping aligned to KPI,Pass,High,Analytics,Confirm conversion event before activation
+AUD-HOME-08,Narrative,Client-ready who what when where story,Pass,Low,Sales strategy,Review for non-technical language
+AUD-HOME-08,Activation,DSP and SSP path mapped,Pass,Medium,Activation lead,Confirm audience export and deal path
+AUD-B2B-09,Audience definition,Segment logic documented,Pass,Low,Discovery analyst,Keep definition in package appendix
+AUD-B2B-09,Identity coverage,Household match rate above planning floor,Pass,Medium,Platform specialist,Add confidence caveat if below floor
+AUD-B2B-09,Measurement,Pixel or event mapping aligned to KPI,Pass,High,Analytics,Confirm conversion event before activation
+AUD-B2B-09,Narrative,Client-ready who what when where story,Pass,Low,Sales strategy,Review for non-technical language
+AUD-B2B-09,Activation,DSP and SSP path mapped,Pass,Medium,Activation lead,Confirm audience export and deal path
+AUD-SPORTS-10,Audience definition,Segment logic documented,Pass,Low,Discovery analyst,Keep definition in package appendix
+AUD-SPORTS-10,Identity coverage,Household match rate above planning floor,Pass,Medium,Platform specialist,Add confidence caveat if below floor
+AUD-SPORTS-10,Measurement,Pixel or event mapping aligned to KPI,Pass,High,Analytics,Confirm conversion event before activation
+AUD-SPORTS-10,Narrative,Client-ready who what when where story,Pass,Low,Sales strategy,Review for non-technical language
+AUD-SPORTS-10,Activation,DSP and SSP path mapped,Pass,Medium,Activation lead,Confirm audience export and deal path
+AUD-CPG-11,Audience definition,Segment logic documented,Pass,Low,Discovery analyst,Keep definition in package appendix
+AUD-CPG-11,Identity coverage,Household match rate above planning floor,Pass,Medium,Platform specialist,Add confidence caveat if below floor
+AUD-CPG-11,Measurement,Pixel or event mapping aligned to KPI,Pass,High,Analytics,Confirm conversion event before activation
+AUD-CPG-11,Narrative,Client-ready who what when where story,Pass,Low,Sales strategy,Review for non-technical language
+AUD-CPG-11,Activation,DSP and SSP path mapped,Pass,Medium,Activation lead,Confirm audience export and deal path
+AUD-LUX-12,Audience definition,Segment logic documented,Pass,Low,Discovery analyst,Keep definition in package appendix
+AUD-LUX-12,Identity coverage,Household match rate above planning floor,Watch,Medium,Platform specialist,Add confidence caveat if below floor
+AUD-LUX-12,Measurement,Pixel or event mapping aligned to KPI,Pass,High,Analytics,Confirm conversion event before activation
+AUD-LUX-12,Narrative,Client-ready who what when where story,Pass,Low,Sales strategy,Review for non-technical language
+AUD-LUX-12,Activation,DSP and SSP path mapped,Pass,Medium,Activation lead,Confirm audience export and deal path

@@ -1,0 +1,61 @@
+audience_id,topic,topic_type,affinity_index,evidence_signal,recommendation_weight
+AUD-STREAM-01,bundle comparisons,content,139.0,TV plus web,0.65
+AUD-STREAM-01,prestige dramas,intent,134.9,Search and site,0.6
+AUD-STREAM-01,sports streaming,creative,128.8,Social engagement,0.52
+AUD-STREAM-01,device setup,competitive,124.7,CTV context,0.46
+AUD-STREAM-01,family plans,utility,126.3,Post-view action,0.48
+AUD-QSR-02,value menus,content,143.7,TV plus web,0.72
+AUD-QSR-02,drive-through speed,intent,137.4,Search and site,0.63
+AUD-QSR-02,kids meals,creative,136.8,Social engagement,0.62
+AUD-QSR-02,mobile coupons,competitive,135.6,CTV context,0.61
+AUD-QSR-02,late-night snacks,utility,130.5,Post-view action,0.54
+AUD-AUTO-03,charging maps,content,134.0,TV plus web,0.59
+AUD-AUTO-03,tax credits,intent,124.6,Search and site,0.46
+AUD-AUTO-03,range anxiety,creative,127.3,Social engagement,0.5
+AUD-AUTO-03,lease calculators,competitive,123.7,CTV context,0.45
+AUD-AUTO-03,local inventory,utility,112.2,Post-view action,0.3
+AUD-TRAVEL-04,school breaks,content,139.0,TV plus web,0.65
+AUD-TRAVEL-04,hotel pools,intent,134.9,Search and site,0.6
+AUD-TRAVEL-04,flight deals,creative,128.8,Social engagement,0.52
+AUD-TRAVEL-04,theme parks,competitive,124.7,CTV context,0.46
+AUD-TRAVEL-04,travel insurance,utility,126.3,Post-view action,0.48
+AUD-FIN-05,credit score tips,content,143.7,TV plus web,0.72
+AUD-FIN-05,payment calculators,intent,137.4,Search and site,0.63
+AUD-FIN-05,debt consolidation,creative,136.8,Social engagement,0.62
+AUD-FIN-05,APR explainers,competitive,135.6,CTV context,0.61
+AUD-FIN-05,budget apps,utility,130.5,Post-view action,0.54
+AUD-HEALTH-06,sleep quality,content,139.0,TV plus web,0.65
+AUD-HEALTH-06,strength training,intent,134.9,Search and site,0.6
+AUD-HEALTH-06,protein snacks,creative,128.8,Social engagement,0.52
+AUD-HEALTH-06,habit tracking,competitive,124.7,CTV context,0.46
+AUD-HEALTH-06,meal prep,utility,126.3,Post-view action,0.48
+AUD-RETAIL-07,weekly circulars,content,139.0,TV plus web,0.65
+AUD-RETAIL-07,pickup windows,intent,134.9,Search and site,0.6
+AUD-RETAIL-07,loyalty rewards,creative,128.8,Social engagement,0.52
+AUD-RETAIL-07,price matching,competitive,124.7,CTV context,0.46
+AUD-RETAIL-07,social hauls,utility,126.3,Post-view action,0.48
+AUD-HOME-08,kitchen refresh,content,134.0,TV plus web,0.59
+AUD-HOME-08,contractor cost,intent,124.6,Search and site,0.46
+AUD-HOME-08,paint trends,creative,127.3,Social engagement,0.5
+AUD-HOME-08,storm prep,competitive,123.7,CTV context,0.45
+AUD-HOME-08,tool rentals,utility,112.2,Post-view action,0.3
+AUD-B2B-09,workflow automation,content,143.7,TV plus web,0.72
+AUD-B2B-09,invoice software,intent,137.4,Search and site,0.63
+AUD-B2B-09,cash flow,creative,136.8,Social engagement,0.62
+AUD-B2B-09,customer follow-up,competitive,135.6,CTV context,0.61
+AUD-B2B-09,review sites,utility,130.5,Post-view action,0.54
+AUD-SPORTS-10,fantasy matchups,content,139.0,TV plus web,0.65
+AUD-SPORTS-10,live scores,intent,134.9,Search and site,0.6
+AUD-SPORTS-10,sports documentaries,creative,128.8,Social engagement,0.52
+AUD-SPORTS-10,team podcasts,competitive,124.7,CTV context,0.46
+AUD-SPORTS-10,betting odds,utility,126.3,Post-view action,0.48
+AUD-CPG-11,ingredient labels,content,143.7,TV plus web,0.72
+AUD-CPG-11,healthy swaps,intent,137.4,Search and site,0.63
+AUD-CPG-11,recipe videos,creative,136.8,Social engagement,0.62
+AUD-CPG-11,grocery pickup,competitive,135.6,CTV context,0.61
+AUD-CPG-11,family snacks,utility,130.5,Post-view action,0.54
+AUD-LUX-12,investment pieces,content,143.7,TV plus web,0.72
+AUD-LUX-12,gift guides,intent,137.4,Search and site,0.63
+AUD-LUX-12,resale value,creative,136.8,Social engagement,0.62
+AUD-LUX-12,designer profiles,competitive,135.6,CTV context,0.61
+AUD-LUX-12,creator reviews,utility,130.5,Post-view action,0.54

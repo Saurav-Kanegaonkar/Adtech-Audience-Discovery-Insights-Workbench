@@ -1,0 +1,61 @@
+audience_id,section_order,section_name,detail,analyst_purpose
+AUD-STREAM-01,1,Business question,Where should a streaming brand find likely switchers without overbuying the same CTV viewers?,State the client problem before showing data.
+AUD-STREAM-01,2,Audience definition,Households comparing premium streaming bundles,Translate data signals into a human audience.
+AUD-STREAM-01,3,Content and topic evidence,"bundle comparisons, prestige dramas, sports streaming",Show why the audience is addressable now.
+AUD-STREAM-01,4,Where and when to reach,Los Angeles and Late evening,Connect geographic and daypart lift to media planning.
+AUD-STREAM-01,5,Activation recommendation,Lead package,Close with a clear next action and caveat.
+AUD-QSR-02,1,Business question,Which consumption windows and local signals should guide value-menu creative rotation?,State the client problem before showing data.
+AUD-QSR-02,2,Audience definition,"Families and commuters choosing quick meals by price, route, and time of day",Translate data signals into a human audience.
+AUD-QSR-02,3,Content and topic evidence,"value menus, drive-through speed, kids meals",Show why the audience is addressable now.
+AUD-QSR-02,4,Where and when to reach,Houston and Morning commute,Connect geographic and daypart lift to media planning.
+AUD-QSR-02,5,Activation recommendation,Test package,Close with a clear next action and caveat.
+AUD-AUTO-03,1,Business question,How should an EV launch separate curiosity from high-intent research?,State the client problem before showing data.
+AUD-AUTO-03,2,Audience definition,"In-market buyers comparing hybrid, EV, and charging cost tradeoffs",Translate data signals into a human audience.
+AUD-AUTO-03,3,Content and topic evidence,"charging maps, tax credits, range anxiety",Show why the audience is addressable now.
+AUD-AUTO-03,4,Where and when to reach,San Francisco-Oakland-San Jose and Early evening,Connect geographic and daypart lift to media planning.
+AUD-AUTO-03,5,Activation recommendation,Lead package,Close with a clear next action and caveat.
+AUD-TRAVEL-04,1,Business question,Which audience story supports a seasonal family travel package before peak planning closes?,State the client problem before showing data.
+AUD-TRAVEL-04,2,Audience definition,"Parents balancing school calendars, deal windows, and destination research",Translate data signals into a human audience.
+AUD-TRAVEL-04,3,Content and topic evidence,"school breaks, hotel pools, flight deals",Show why the audience is addressable now.
+AUD-TRAVEL-04,4,Where and when to reach,New York and Weekend morning,Connect geographic and daypart lift to media planning.
+AUD-TRAVEL-04,5,Activation recommendation,Lead package,Close with a clear next action and caveat.
+AUD-FIN-05,1,Business question,Which segments are ready for education-led acquisition rather than rate-only messaging?,State the client problem before showing data.
+AUD-FIN-05,2,Audience definition,"Consumers researching debt consolidation, credit score movement, and monthly payment relief",Translate data signals into a human audience.
+AUD-FIN-05,3,Content and topic evidence,"credit score tips, payment calculators, debt consolidation",Show why the audience is addressable now.
+AUD-FIN-05,4,Where and when to reach,Charlotte and Early evening,Connect geographic and daypart lift to media planning.
+AUD-FIN-05,5,Activation recommendation,Test package,Close with a clear next action and caveat.
+AUD-HEALTH-06,1,Business question,Which wellness motivations should shape the next creative and contextual audience test?,State the client problem before showing data.
+AUD-HEALTH-06,2,Audience definition,"Adults building routines around fitness, supplements, sleep, and meal planning",Translate data signals into a human audience.
+AUD-HEALTH-06,3,Content and topic evidence,"sleep quality, strength training, protein snacks",Show why the audience is addressable now.
+AUD-HEALTH-06,4,Where and when to reach,Austin and Morning commute,Connect geographic and daypart lift to media planning.
+AUD-HEALTH-06,5,Activation recommendation,Test package,Close with a clear next action and caveat.
+AUD-RETAIL-07,1,Business question,How can a retail advertiser connect deal intent to channel and creative choices?,State the client problem before showing data.
+AUD-RETAIL-07,2,Audience definition,"Shoppers comparing circulars, social deal content, pickup options, and loyalty offers",Translate data signals into a human audience.
+AUD-RETAIL-07,3,Content and topic evidence,"weekly circulars, pickup windows, loyalty rewards",Show why the audience is addressable now.
+AUD-RETAIL-07,4,Where and when to reach,Dallas-Fort Worth and Lunch,Connect geographic and daypart lift to media planning.
+AUD-RETAIL-07,5,Activation recommendation,Lead package,Close with a clear next action and caveat.
+AUD-HOME-08,1,Business question,Which project signals should split DIY education from pro-service lead generation?,State the client problem before showing data.
+AUD-HOME-08,2,Audience definition,"Homeowners researching project difficulty, contractor cost, and seasonal timing",Translate data signals into a human audience.
+AUD-HOME-08,3,Content and topic evidence,"kitchen refresh, contractor cost, paint trends",Show why the audience is addressable now.
+AUD-HOME-08,4,Where and when to reach,Miami-Fort Lauderdale and Weekend morning,Connect geographic and daypart lift to media planning.
+AUD-HOME-08,5,Activation recommendation,Test package,Close with a clear next action and caveat.
+AUD-B2B-09,1,Business question,Which business-owner signals are specific enough to support a targeted CTV plus digital plan?,State the client problem before showing data.
+AUD-B2B-09,2,Audience definition,"Operators comparing automation, invoicing, workflow, and analytics tools",Translate data signals into a human audience.
+AUD-B2B-09,3,Content and topic evidence,"workflow automation, invoice software, cash flow",Show why the audience is addressable now.
+AUD-B2B-09,4,Where and when to reach,San Francisco-Oakland-San Jose and Morning commute,Connect geographic and daypart lift to media planning.
+AUD-B2B-09,5,Activation recommendation,Test package,Close with a clear next action and caveat.
+AUD-SPORTS-10,1,Business question,How should a sports package prove incremental reach across linear and streaming?,State the client problem before showing data.
+AUD-SPORTS-10,2,Audience definition,"Fans mixing linear games, highlights, fantasy research, and social clips",Translate data signals into a human audience.
+AUD-SPORTS-10,3,Content and topic evidence,"fantasy matchups, live scores, sports documentaries",Show why the audience is addressable now.
+AUD-SPORTS-10,4,Where and when to reach,Boston and Prime access,Connect geographic and daypart lift to media planning.
+AUD-SPORTS-10,5,Activation recommendation,Lead package,Close with a clear next action and caveat.
+AUD-CPG-11,1,Business question,"Which content affinities should inform audience, retail media, and creative messaging?",State the client problem before showing data.
+AUD-CPG-11,2,Audience definition,"Shoppers evaluating ingredients, recipes, dietary swaps, and retailer availability",Translate data signals into a human audience.
+AUD-CPG-11,3,Content and topic evidence,"ingredient labels, healthy swaps, recipe videos",Show why the audience is addressable now.
+AUD-CPG-11,4,Where and when to reach,Portland and Weekend morning,Connect geographic and daypart lift to media planning.
+AUD-CPG-11,5,Activation recommendation,Test package,Close with a clear next action and caveat.
+AUD-LUX-12,1,Business question,How can premium creative reach high-intent researchers without diluting brand context?,State the client problem before showing data.
+AUD-LUX-12,2,Audience definition,"Shoppers researching investment pieces, creator reviews, resale value, and gifting moments",Translate data signals into a human audience.
+AUD-LUX-12,3,Content and topic evidence,"investment pieces, gift guides, resale value",Show why the audience is addressable now.
+AUD-LUX-12,4,Where and when to reach,New York and Late evening,Connect geographic and daypart lift to media planning.
+AUD-LUX-12,5,Activation recommendation,Test package,Close with a clear next action and caveat.

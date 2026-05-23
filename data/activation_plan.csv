@@ -1,0 +1,49 @@
+audience_id,tactic,surface,creative_angle,expected_lift_pct,confidence,effort,owner,next_step
+AUD-STREAM-01,Smart contextual audience,Open web and CTV,Lead with bundle comparisons and prestige dramas language,8.9,85.7,Low,Audience manager,Include in client package
+AUD-STREAM-01,Custom audience extension,DSP,Extend from sports streaming behavior into lookalike reach,5.2,77.4,Low,Sales strategy,Include in client package
+AUD-STREAM-01,CTV daypart test,CTV and linear planning,Test late evening creative against prime access reach,4.7,73.4,Low,Discovery analyst,Include in client package
+AUD-STREAM-01,Measurement holdout,Measurement,Separate exposed and control response for trial starts,3.2,74.7,Medium,Analytics,Include in client package
+AUD-QSR-02,Smart contextual audience,Open web and CTV,Lead with value menus and drive-through speed language,8.0,84.5,Low,Audience manager,Include in client package
+AUD-QSR-02,Custom audience extension,DSP,Extend from kids meals behavior into lookalike reach,4.9,72.7,Low,Sales strategy,Include in client package
+AUD-QSR-02,CTV daypart test,CTV and linear planning,Test morning commute creative against lunch reach,6.0,86.2,Low,Discovery analyst,Include in client package
+AUD-QSR-02,Measurement holdout,Measurement,Separate exposed and control response for store visits,3.8,77.9,Medium,Analytics,Include in client package
+AUD-AUTO-03,Smart contextual audience,Open web and CTV,Lead with charging maps and tax credits language,7.0,81.8,Low,Audience manager,Include in client package
+AUD-AUTO-03,Custom audience extension,DSP,Extend from range anxiety behavior into lookalike reach,6.1,90.5,Low,Sales strategy,Include in client package
+AUD-AUTO-03,CTV daypart test,CTV and linear planning,Test early evening creative against weekend afternoon reach,5.2,93.8,Low,Discovery analyst,Include in client package
+AUD-AUTO-03,Measurement holdout,Measurement,Separate exposed and control response for dealer lead submissions,4.7,93.1,Medium,Analytics,Include in client package
+AUD-TRAVEL-04,Smart contextual audience,Open web and CTV,Lead with school breaks and hotel pools language,8.8,86.0,Low,Audience manager,Include in client package
+AUD-TRAVEL-04,Custom audience extension,DSP,Extend from flight deals behavior into lookalike reach,5.1,77.7,Low,Sales strategy,Include in client package
+AUD-TRAVEL-04,CTV daypart test,CTV and linear planning,Test weekend morning creative against prime access reach,4.6,73.7,Low,Discovery analyst,Include in client package
+AUD-TRAVEL-04,Measurement holdout,Measurement,Separate exposed and control response for booking starts,3.1,75.0,Medium,Analytics,Include in client package
+AUD-FIN-05,Smart contextual audience,Open web and CTV,Lead with credit score tips and payment calculators language,8.0,83.6,Low,Audience manager,Include in client package
+AUD-FIN-05,Custom audience extension,DSP,Extend from debt consolidation behavior into lookalike reach,4.9,71.8,Low,Sales strategy,Validate before client readout
+AUD-FIN-05,CTV daypart test,CTV and linear planning,Test early evening creative against late evening reach,6.1,85.3,Low,Discovery analyst,Include in client package
+AUD-FIN-05,Measurement holdout,Measurement,Separate exposed and control response for qualified applications,3.9,77.0,Medium,Analytics,Include in client package
+AUD-HEALTH-06,Smart contextual audience,Open web and CTV,Lead with sleep quality and strength training language,8.6,85.1,Low,Audience manager,Include in client package
+AUD-HEALTH-06,Custom audience extension,DSP,Extend from protein snacks behavior into lookalike reach,4.9,76.8,Low,Sales strategy,Include in client package
+AUD-HEALTH-06,CTV daypart test,CTV and linear planning,Test morning commute creative against early evening reach,4.5,72.8,Low,Discovery analyst,Include in client package
+AUD-HEALTH-06,Measurement holdout,Measurement,Separate exposed and control response for retail conversions,2.9,74.1,Medium,Analytics,Include in client package
+AUD-RETAIL-07,Smart contextual audience,Open web and CTV,Lead with weekly circulars and pickup windows language,8.8,87.9,Low,Audience manager,Include in client package
+AUD-RETAIL-07,Custom audience extension,DSP,Extend from loyalty rewards behavior into lookalike reach,5.1,79.6,Low,Sales strategy,Include in client package
+AUD-RETAIL-07,CTV daypart test,CTV and linear planning,Test lunch creative against prime access reach,4.6,75.6,Low,Discovery analyst,Include in client package
+AUD-RETAIL-07,Measurement holdout,Measurement,Separate exposed and control response for incremental store and site actions,3.1,76.9,Medium,Analytics,Include in client package
+AUD-HOME-08,Smart contextual audience,Open web and CTV,Lead with kitchen refresh and contractor cost language,6.9,81.7,Low,Audience manager,Include in client package
+AUD-HOME-08,Custom audience extension,DSP,Extend from paint trends behavior into lookalike reach,5.9,90.4,Low,Sales strategy,Include in client package
+AUD-HOME-08,CTV daypart test,CTV and linear planning,Test weekend morning creative against weekend afternoon reach,5.1,93.7,Low,Discovery analyst,Include in client package
+AUD-HOME-08,Measurement holdout,Measurement,Separate exposed and control response for quote requests,4.6,93.0,Medium,Analytics,Include in client package
+AUD-B2B-09,Smart contextual audience,Open web and CTV,Lead with workflow automation and invoice software language,7.7,81.6,Low,Audience manager,Include in client package
+AUD-B2B-09,Custom audience extension,DSP,Extend from cash flow behavior into lookalike reach,4.6,69.8,Low,Sales strategy,Validate before client readout
+AUD-B2B-09,CTV daypart test,CTV and linear planning,Test morning commute creative against lunch reach,5.8,83.3,Low,Discovery analyst,Include in client package
+AUD-B2B-09,Measurement holdout,Measurement,Separate exposed and control response for demo requests,3.6,75.0,Medium,Analytics,Include in client package
+AUD-SPORTS-10,Smart contextual audience,Open web and CTV,Lead with fantasy matchups and live scores language,9.2,86.3,Low,Audience manager,Include in client package
+AUD-SPORTS-10,Custom audience extension,DSP,Extend from sports documentaries behavior into lookalike reach,5.5,78.0,Low,Sales strategy,Include in client package
+AUD-SPORTS-10,CTV daypart test,CTV and linear planning,Test prime access creative against late evening reach,5.0,74.0,Low,Discovery analyst,Include in client package
+AUD-SPORTS-10,Measurement holdout,Measurement,Separate exposed and control response for subscription and tune-in actions,3.5,75.3,Medium,Analytics,Include in client package
+AUD-CPG-11,Smart contextual audience,Open web and CTV,Lead with ingredient labels and healthy swaps language,8.0,84.1,Low,Audience manager,Include in client package
+AUD-CPG-11,Custom audience extension,DSP,Extend from recipe videos behavior into lookalike reach,4.9,72.3,Low,Sales strategy,Include in client package
+AUD-CPG-11,CTV daypart test,CTV and linear planning,Test weekend morning creative against lunch reach,6.1,85.8,Low,Discovery analyst,Include in client package
+AUD-CPG-11,Measurement holdout,Measurement,Separate exposed and control response for retail actions,3.9,77.5,Medium,Analytics,Include in client package
+AUD-LUX-12,Smart contextual audience,Open web and CTV,Lead with investment pieces and gift guides language,8.0,80.7,Low,Audience manager,Include in client package
+AUD-LUX-12,Custom audience extension,DSP,Extend from resale value behavior into lookalike reach,4.9,68.9,Low,Sales strategy,Validate before client readout
+AUD-LUX-12,CTV daypart test,CTV and linear planning,Test late evening creative against weekend afternoon reach,6.0,82.4,Low,Discovery analyst,Include in client package
+AUD-LUX-12,Measurement holdout,Measurement,Separate exposed and control response for high-value site actions,3.8,74.1,Medium,Analytics,Include in client package

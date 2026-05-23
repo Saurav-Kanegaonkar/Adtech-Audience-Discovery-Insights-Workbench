@@ -1,0 +1,145 @@
+audience_id,dma,daypart,ctv_lift_index,web_lift_index,social_lift_index,budget_weight,recommended_channel
+AUD-STREAM-01,Los Angeles,Late evening,145.8,122.6,124.0,0.6,CTV plus digital retargeting
+AUD-STREAM-01,Los Angeles,Prime access,145.2,124.1,128.4,0.62,CTV plus digital retargeting
+AUD-STREAM-01,Los Angeles,Weekend afternoon,147.2,120.8,115.4,0.58,CTV plus digital retargeting
+AUD-STREAM-01,Chicago,Late evening,140.9,125.7,117.4,0.57,CTV plus digital retargeting
+AUD-STREAM-01,Chicago,Prime access,135.4,119.5,119.6,0.52,CTV plus digital retargeting
+AUD-STREAM-01,Chicago,Weekend afternoon,135.2,140.4,116.2,0.59,CTV plus digital retargeting
+AUD-STREAM-01,Dallas-Fort Worth,Late evening,130.4,129.1,107.4,0.5,CTV plus digital retargeting
+AUD-STREAM-01,Dallas-Fort Worth,Prime access,151.8,132.4,129.5,0.69,CTV plus digital retargeting
+AUD-STREAM-01,Dallas-Fort Worth,Weekend afternoon,147.5,139.1,124.4,0.68,CTV plus digital retargeting
+AUD-STREAM-01,Atlanta,Late evening,137.8,127.5,117.1,0.56,CTV plus digital retargeting
+AUD-STREAM-01,Atlanta,Prime access,133.4,131.6,116.1,0.55,CTV plus digital retargeting
+AUD-STREAM-01,Atlanta,Weekend afternoon,145.1,140.5,119.0,0.66,CTV plus digital retargeting
+AUD-QSR-02,Houston,Morning commute,122.5,132.3,122.8,0.51,Contextual web plus conversion retargeting
+AUD-QSR-02,Houston,Lunch,116.9,120.3,140.2,0.48,Social proof plus web retargeting
+AUD-QSR-02,Houston,Late night,126.5,126.0,138.7,0.55,Social proof plus web retargeting
+AUD-QSR-02,Phoenix,Morning commute,119.7,110.0,139.0,0.45,Social proof plus web retargeting
+AUD-QSR-02,Phoenix,Lunch,122.0,119.8,121.1,0.45,CTV plus digital retargeting
+AUD-QSR-02,Phoenix,Late night,107.8,120.0,131.8,0.4,Social proof plus web retargeting
+AUD-QSR-02,Tampa,Morning commute,124.3,126.3,139.9,0.54,Social proof plus web retargeting
+AUD-QSR-02,Tampa,Lunch,108.5,124.6,138.2,0.44,Social proof plus web retargeting
+AUD-QSR-02,Tampa,Late night,100.3,116.7,130.5,0.34,Social proof plus web retargeting
+AUD-QSR-02,Detroit,Morning commute,105.1,122.8,121.8,0.37,Contextual web plus conversion retargeting
+AUD-QSR-02,Detroit,Lunch,101.1,117.6,138.5,0.37,Social proof plus web retargeting
+AUD-QSR-02,Detroit,Late night,113.0,114.0,119.8,0.37,Social proof plus web retargeting
+AUD-AUTO-03,San Francisco-Oakland-San Jose,Early evening,133.8,144.1,102.8,0.56,Contextual web plus conversion retargeting
+AUD-AUTO-03,San Francisco-Oakland-San Jose,Weekend afternoon,111.4,141.3,108.3,0.44,Contextual web plus conversion retargeting
+AUD-AUTO-03,San Francisco-Oakland-San Jose,Late evening,117.0,141.3,109.8,0.48,Contextual web plus conversion retargeting
+AUD-AUTO-03,Seattle-Tacoma,Early evening,117.5,148.9,110.2,0.51,Contextual web plus conversion retargeting
+AUD-AUTO-03,Seattle-Tacoma,Weekend afternoon,138.2,144.3,111.5,0.61,CTV plus digital retargeting
+AUD-AUTO-03,Seattle-Tacoma,Late evening,113.6,156.2,120.7,0.55,Contextual web plus conversion retargeting
+AUD-AUTO-03,Denver,Early evening,122.7,140.4,116.2,0.52,Contextual web plus conversion retargeting
+AUD-AUTO-03,Denver,Weekend afternoon,112.7,143.1,112.1,0.47,Contextual web plus conversion retargeting
+AUD-AUTO-03,Denver,Late evening,112.1,157.6,112.3,0.52,Contextual web plus conversion retargeting
+AUD-AUTO-03,Boston,Early evening,123.4,138.6,117.2,0.52,Contextual web plus conversion retargeting
+AUD-AUTO-03,Boston,Weekend afternoon,131.2,154.0,105.5,0.59,Contextual web plus conversion retargeting
+AUD-AUTO-03,Boston,Late evening,138.0,151.6,123.8,0.68,Contextual web plus conversion retargeting
+AUD-TRAVEL-04,New York,Weekend morning,124.8,130.6,132.0,0.54,Social proof plus web retargeting
+AUD-TRAVEL-04,New York,Prime access,124.2,132.1,136.4,0.56,Social proof plus web retargeting
+AUD-TRAVEL-04,New York,Late evening,126.2,128.8,123.4,0.52,CTV plus digital retargeting
+AUD-TRAVEL-04,Orlando-Daytona Beach-Melbourne,Weekend morning,119.9,133.7,125.4,0.51,Contextual web plus conversion retargeting
+AUD-TRAVEL-04,Orlando-Daytona Beach-Melbourne,Prime access,114.4,127.5,127.6,0.46,Social proof plus web retargeting
+AUD-TRAVEL-04,Orlando-Daytona Beach-Melbourne,Late evening,114.2,148.4,124.2,0.53,Contextual web plus conversion retargeting
+AUD-TRAVEL-04,Philadelphia,Weekend morning,109.4,137.1,115.4,0.43,Contextual web plus conversion retargeting
+AUD-TRAVEL-04,Philadelphia,Prime access,130.8,140.4,137.5,0.63,Contextual web plus conversion retargeting
+AUD-TRAVEL-04,Philadelphia,Late evening,126.5,147.1,132.4,0.62,Contextual web plus conversion retargeting
+AUD-TRAVEL-04,Minneapolis-St. Paul,Weekend morning,116.8,135.5,125.1,0.5,Contextual web plus conversion retargeting
+AUD-TRAVEL-04,Minneapolis-St. Paul,Prime access,112.4,139.6,124.1,0.48,Contextual web plus conversion retargeting
+AUD-TRAVEL-04,Minneapolis-St. Paul,Late evening,124.1,148.5,127.0,0.59,Contextual web plus conversion retargeting
+AUD-FIN-05,Charlotte,Early evening,117.5,160.3,113.8,0.57,Contextual web plus conversion retargeting
+AUD-FIN-05,Charlotte,Late evening,111.9,148.3,131.2,0.54,Contextual web plus conversion retargeting
+AUD-FIN-05,Charlotte,Weekend afternoon,121.5,154.0,129.7,0.61,Contextual web plus conversion retargeting
+AUD-FIN-05,Atlanta,Early evening,114.7,138.0,130.0,0.51,Contextual web plus conversion retargeting
+AUD-FIN-05,Atlanta,Late evening,117.0,147.8,112.1,0.51,Contextual web plus conversion retargeting
+AUD-FIN-05,Atlanta,Weekend afternoon,102.8,148.0,122.8,0.46,Contextual web plus conversion retargeting
+AUD-FIN-05,Las Vegas,Early evening,119.3,154.3,130.9,0.6,Contextual web plus conversion retargeting
+AUD-FIN-05,Las Vegas,Late evening,103.5,152.6,129.2,0.5,Contextual web plus conversion retargeting
+AUD-FIN-05,Las Vegas,Weekend afternoon,95.3,144.7,121.5,0.4,Contextual web plus conversion retargeting
+AUD-FIN-05,Cleveland-Akron,Early evening,100.1,150.8,112.8,0.43,Contextual web plus conversion retargeting
+AUD-FIN-05,Cleveland-Akron,Late evening,96.1,145.6,129.5,0.43,Contextual web plus conversion retargeting
+AUD-FIN-05,Cleveland-Akron,Weekend afternoon,108.0,142.0,110.8,0.43,Contextual web plus conversion retargeting
+AUD-HEALTH-06,Austin,Morning commute,122.8,124.6,143.0,0.54,Social proof plus web retargeting
+AUD-HEALTH-06,Austin,Early evening,122.2,126.1,147.4,0.55,Social proof plus web retargeting
+AUD-HEALTH-06,Austin,Weekend morning,124.2,122.8,134.4,0.51,Social proof plus web retargeting
+AUD-HEALTH-06,San Diego,Morning commute,117.9,127.7,136.4,0.5,Social proof plus web retargeting
+AUD-HEALTH-06,San Diego,Early evening,112.4,121.5,138.6,0.45,Social proof plus web retargeting
+AUD-HEALTH-06,San Diego,Weekend morning,112.2,142.4,135.2,0.53,Contextual web plus conversion retargeting
+AUD-HEALTH-06,Portland,Morning commute,107.4,131.1,126.4,0.43,Contextual web plus conversion retargeting
+AUD-HEALTH-06,Portland,Early evening,128.8,134.4,148.5,0.63,Social proof plus web retargeting
+AUD-HEALTH-06,Portland,Weekend morning,124.5,141.1,143.4,0.61,Social proof plus web retargeting
+AUD-HEALTH-06,Raleigh-Durham,Morning commute,114.8,129.5,136.1,0.49,Social proof plus web retargeting
+AUD-HEALTH-06,Raleigh-Durham,Early evening,110.4,133.6,135.1,0.48,Social proof plus web retargeting
+AUD-HEALTH-06,Raleigh-Durham,Weekend morning,122.1,142.5,138.0,0.59,Contextual web plus conversion retargeting
+AUD-RETAIL-07,Dallas-Fort Worth,Lunch,116.8,120.6,148.0,0.5,Social proof plus web retargeting
+AUD-RETAIL-07,Dallas-Fort Worth,Prime access,116.2,122.1,152.4,0.52,Social proof plus web retargeting
+AUD-RETAIL-07,Dallas-Fort Worth,Weekend morning,118.2,118.8,139.4,0.48,Social proof plus web retargeting
+AUD-RETAIL-07,Nashville,Lunch,111.9,123.7,141.4,0.47,Social proof plus web retargeting
+AUD-RETAIL-07,Nashville,Prime access,106.4,117.5,143.6,0.42,Social proof plus web retargeting
+AUD-RETAIL-07,Nashville,Weekend morning,106.2,138.4,140.2,0.49,Social proof plus web retargeting
+AUD-RETAIL-07,Kansas City,Lunch,101.4,127.1,131.4,0.39,Social proof plus web retargeting
+AUD-RETAIL-07,Kansas City,Prime access,122.8,130.4,153.5,0.59,Social proof plus web retargeting
+AUD-RETAIL-07,Kansas City,Weekend morning,118.5,137.1,148.4,0.58,Social proof plus web retargeting
+AUD-RETAIL-07,Columbus,Lunch,108.8,125.5,141.1,0.46,Social proof plus web retargeting
+AUD-RETAIL-07,Columbus,Prime access,104.4,129.6,140.1,0.45,Social proof plus web retargeting
+AUD-RETAIL-07,Columbus,Weekend morning,116.1,138.5,143.0,0.56,Social proof plus web retargeting
+AUD-HOME-08,Miami-Fort Lauderdale,Weekend morning,131.8,140.1,104.8,0.54,Contextual web plus conversion retargeting
+AUD-HOME-08,Miami-Fort Lauderdale,Weekend afternoon,109.4,137.3,110.3,0.42,Contextual web plus conversion retargeting
+AUD-HOME-08,Miami-Fort Lauderdale,Early evening,115.0,137.3,111.8,0.46,Contextual web plus conversion retargeting
+AUD-HOME-08,Houston,Weekend morning,115.5,144.9,112.2,0.49,Contextual web plus conversion retargeting
+AUD-HOME-08,Houston,Weekend afternoon,136.2,140.3,113.5,0.59,CTV plus digital retargeting
+AUD-HOME-08,Houston,Early evening,111.6,152.2,122.7,0.53,Contextual web plus conversion retargeting
+AUD-HOME-08,St. Louis,Weekend morning,120.7,136.4,118.2,0.5,Contextual web plus conversion retargeting
+AUD-HOME-08,St. Louis,Weekend afternoon,110.7,139.1,114.1,0.44,Contextual web plus conversion retargeting
+AUD-HOME-08,St. Louis,Early evening,110.1,153.6,114.3,0.5,Contextual web plus conversion retargeting
+AUD-HOME-08,Sacramento,Weekend morning,121.4,134.6,119.2,0.5,Contextual web plus conversion retargeting
+AUD-HOME-08,Sacramento,Weekend afternoon,129.2,150.0,107.5,0.57,Contextual web plus conversion retargeting
+AUD-HOME-08,Sacramento,Early evening,136.0,147.6,125.8,0.65,Contextual web plus conversion retargeting
+AUD-B2B-09,San Francisco-Oakland-San Jose,Morning commute,113.5,162.3,110.8,0.54,Contextual web plus conversion retargeting
+AUD-B2B-09,San Francisco-Oakland-San Jose,Lunch,107.9,150.3,128.2,0.51,Contextual web plus conversion retargeting
+AUD-B2B-09,San Francisco-Oakland-San Jose,Early evening,117.5,156.0,126.7,0.59,Contextual web plus conversion retargeting
+AUD-B2B-09,Austin,Morning commute,110.7,140.0,127.0,0.49,Contextual web plus conversion retargeting
+AUD-B2B-09,Austin,Lunch,113.0,149.8,109.1,0.49,Contextual web plus conversion retargeting
+AUD-B2B-09,Austin,Early evening,98.8,150.0,119.8,0.44,Contextual web plus conversion retargeting
+AUD-B2B-09,Seattle-Tacoma,Morning commute,115.3,156.3,127.9,0.58,Contextual web plus conversion retargeting
+AUD-B2B-09,Seattle-Tacoma,Lunch,99.5,154.6,126.2,0.48,Contextual web plus conversion retargeting
+AUD-B2B-09,Seattle-Tacoma,Early evening,91.3,146.7,118.5,0.38,Contextual web plus conversion retargeting
+AUD-B2B-09,New York,Morning commute,96.1,152.8,109.8,0.4,Contextual web plus conversion retargeting
+AUD-B2B-09,New York,Lunch,92.1,147.6,126.5,0.41,Contextual web plus conversion retargeting
+AUD-B2B-09,New York,Early evening,104.0,144.0,107.8,0.41,Contextual web plus conversion retargeting
+AUD-SPORTS-10,Boston,Prime access,152.8,118.6,145.0,0.69,CTV plus digital retargeting
+AUD-SPORTS-10,Boston,Late evening,152.2,120.1,149.4,0.7,CTV plus digital retargeting
+AUD-SPORTS-10,Boston,Weekend afternoon,154.2,116.8,136.4,0.66,CTV plus digital retargeting
+AUD-SPORTS-10,Philadelphia,Prime access,147.9,121.7,138.4,0.65,CTV plus digital retargeting
+AUD-SPORTS-10,Philadelphia,Late evening,142.4,115.5,140.6,0.6,CTV plus digital retargeting
+AUD-SPORTS-10,Philadelphia,Weekend afternoon,142.2,136.4,137.2,0.68,CTV plus digital retargeting
+AUD-SPORTS-10,Chicago,Prime access,137.4,125.1,128.4,0.58,CTV plus digital retargeting
+AUD-SPORTS-10,Chicago,Late evening,158.8,128.4,150.5,0.78,CTV plus digital retargeting
+AUD-SPORTS-10,Chicago,Weekend afternoon,154.5,135.1,145.4,0.76,CTV plus digital retargeting
+AUD-SPORTS-10,Phoenix,Prime access,144.8,123.5,138.1,0.64,CTV plus digital retargeting
+AUD-SPORTS-10,Phoenix,Late evening,140.4,127.6,137.1,0.63,CTV plus digital retargeting
+AUD-SPORTS-10,Phoenix,Weekend afternoon,152.1,136.5,140.0,0.74,CTV plus digital retargeting
+AUD-CPG-11,Portland,Weekend morning,119.5,145.3,136.8,0.58,Contextual web plus conversion retargeting
+AUD-CPG-11,Portland,Lunch,113.9,133.3,154.2,0.55,Social proof plus web retargeting
+AUD-CPG-11,Portland,Early evening,123.5,139.0,152.7,0.63,Social proof plus web retargeting
+AUD-CPG-11,Denver,Weekend morning,116.7,123.0,153.0,0.53,Social proof plus web retargeting
+AUD-CPG-11,Denver,Lunch,119.0,132.8,135.1,0.53,Social proof plus web retargeting
+AUD-CPG-11,Denver,Early evening,104.8,133.0,145.8,0.48,Social proof plus web retargeting
+AUD-CPG-11,Minneapolis-St. Paul,Weekend morning,121.3,139.3,153.9,0.62,Social proof plus web retargeting
+AUD-CPG-11,Minneapolis-St. Paul,Lunch,105.5,137.6,152.2,0.52,Social proof plus web retargeting
+AUD-CPG-11,Minneapolis-St. Paul,Early evening,97.3,129.7,144.5,0.42,Social proof plus web retargeting
+AUD-CPG-11,Raleigh-Durham,Weekend morning,102.1,135.8,135.8,0.45,Contextual web plus conversion retargeting
+AUD-CPG-11,Raleigh-Durham,Lunch,98.1,130.6,152.5,0.45,Social proof plus web retargeting
+AUD-CPG-11,Raleigh-Durham,Early evening,110.0,127.0,133.8,0.45,Social proof plus web retargeting
+AUD-LUX-12,New York,Late evening,127.5,164.3,119.8,0.66,Contextual web plus conversion retargeting
+AUD-LUX-12,New York,Weekend afternoon,121.9,152.3,137.2,0.63,Contextual web plus conversion retargeting
+AUD-LUX-12,New York,Prime access,131.5,158.0,135.7,0.7,Contextual web plus conversion retargeting
+AUD-LUX-12,Los Angeles,Late evening,124.7,142.0,136.0,0.6,Contextual web plus conversion retargeting
+AUD-LUX-12,Los Angeles,Weekend afternoon,127.0,151.8,118.1,0.6,Contextual web plus conversion retargeting
+AUD-LUX-12,Los Angeles,Prime access,112.8,152.0,128.8,0.55,Contextual web plus conversion retargeting
+AUD-LUX-12,Miami-Fort Lauderdale,Late evening,129.3,158.3,136.9,0.69,Contextual web plus conversion retargeting
+AUD-LUX-12,Miami-Fort Lauderdale,Weekend afternoon,113.5,156.6,135.2,0.59,Contextual web plus conversion retargeting
+AUD-LUX-12,Miami-Fort Lauderdale,Prime access,105.3,148.7,127.5,0.49,Contextual web plus conversion retargeting
+AUD-LUX-12,San Francisco-Oakland-San Jose,Late evening,110.1,154.8,118.8,0.52,Contextual web plus conversion retargeting
+AUD-LUX-12,San Francisco-Oakland-San Jose,Weekend afternoon,106.1,149.6,135.5,0.52,Contextual web plus conversion retargeting
+AUD-LUX-12,San Francisco-Oakland-San Jose,Prime access,118.0,146.0,116.8,0.52,Contextual web plus conversion retargeting

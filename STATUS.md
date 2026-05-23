@@ -1,7 +1,5 @@
 # Status
 
-- Project: Adtech Audience Discovery Insights Workbench
-- GitHub: https://github.com/Saurav-Kanegaonkar/Adtech-Audience-Discovery-Insights-Workbench
-- Status: complete
-- Resume Link Ready: Yes
-- Last update: Created to locked pipeline standards with multiple data sources, analysis artifacts, scripts, screenshot, and distinct artifact framing.
+- Status: upgraded through the Portfolio Artifact Upgrade Workflow.
+- Current artifact: interactive Discovery package workbench with deterministic synthetic data, priority scoring, story builder, activation plan, and QA readiness surfaces.
+- Safe to link as an adtech audience insights, sales support, and Discovery package portfolio artifact after changes are pushed.

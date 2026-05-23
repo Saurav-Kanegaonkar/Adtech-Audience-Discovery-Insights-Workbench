@@ -1,15 +1,16 @@
 # Executive Findings
 
-## What I analyzed
+## What I Analyzed
 
-I joined 5,040 daily metric rows, 760 source events, and 220 action candidates for adtech audience discovery and consumer insights packaging.
+I generated a deterministic synthetic Discovery package model with 12 audience segments, 60 topic-affinity records, 144 DMA and daypart planning rows, 48 activation recommendations, 60 QA checks, and 60 client package sections.
 
 ## Findings
 
-- The highest-priority audience opportunity is AUD004 with a priority score of 110.19.
-- The top queue combines 53.4 average risk with 79.6 quality score and $987,559 estimated impact.
-- The strongest use case is turning repeated stakeholder questions into a ranked operating digest.
+- The top-ranked package is **Live Sports Streaming Fans** with a Discovery score of 115.2.
+- The modeled package universe represents 81.8 million matched households across advertiser verticals.
+- Average measurement confidence is 81.2, which means the analyst should include confidence notes instead of treating all audience stories equally.
+- 7 audiences should be positioned as test packages or caveated stories instead of lead packages.
 
 ## Recommendation
 
-Prioritize the top queue before scaling more dashboards. The project should help leaders decide which audience opportunity risks need action, validation, or monitoring.
+Use the priority queue to decide which Discovery packages should lead the next client conversation, then use the story builder to translate the strongest package into who, what, when, where, activation, and measurement language.

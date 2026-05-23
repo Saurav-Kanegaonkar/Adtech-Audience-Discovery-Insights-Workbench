@@ -3,52 +3,145 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Adtech Audience Discovery Insights Workbench</title>
+  <title>Audience Discovery Package Workbench</title>
   <link rel="stylesheet" href="src/styles.css">
 </head>
-<body style="--accent:#a16207;--bg:#fff7ed">
-  <main class="shell">
-    <header class="hero">
+<body>
+  <main class="app-shell">
+    <header class="topbar">
       <div>
-        <p class="eyebrow">Decision Brief / adtech audience discovery and consumer insights packaging</p>
-        <h1>Adtech Audience Discovery Insights Workbench</h1>
+        <p class="eyebrow">Adtech audience insights artifact</p>
+        <h1>Audience Discovery Package Workbench</h1>
+        <p class="lede">A client-ready operating artifact for turning cross-screen audience signals into Discovery packages, activation recommendations, and presentation-ready caveats.</p>
       </div>
-      <aside>
-        <b>Purpose</b>
-        <span>Turn messy audience opportunity-level signals into a ranked operating artifact with recommendations a stakeholder can act on.</span>
+      <aside class="brief-card" aria-label="Workflow summary">
+        <span>Workflow</span>
+        <strong>Question to package to activation</strong>
+        <p>Rank the strongest audience stories, inspect the evidence, then prepare the client readout and platform walkthrough.</p>
       </aside>
     </header>
-    <section class="metrics">
-      <article><span>Modeled rows</span><strong>6.0K+</strong><em>source-style</em></article>
-      <article><span>Ranked queue</span><strong>25</strong><em>audience opportunitys</em></article>
-      <article><span>Action pool</span><strong>220</strong><em>candidates</em></article>
-      <article><span>Review time</span><strong>-6 hrs</strong><em>weekly</em></article>
-    </section>
-    <section class="main-grid">
-      <article class="panel lead">
-        <p class="eyebrow">Decision context</p>
-        <h2>Priority queue</h2>
-        <table>
-          <thead><tr><th>audience opportunity</th><th>Signal</th><th>Risk</th><th>Next move</th></tr></thead>
-          <tbody>
-            <tr><td>Segment A</td><td>Forecast risk</td><td>High</td><td>Escalate with source check</td></tr>
-            <tr><td>Segment B</td><td>Recommended action</td><td>Medium</td><td>Test with clear owner</td></tr>
-            <tr><td>Segment C</td><td>Quality gap</td><td>Watch</td><td>Document metric definition</td></tr>
-          </tbody>
-        </table>
+
+    <section class="summary-grid" aria-label="Portfolio summary metrics">
+      <article>
+        <span>Audience packages</span>
+        <strong id="metric-audiences">0</strong>
+        <em>synthetic segments</em>
       </article>
-      <article class="panel narrative">
-        <p class="eyebrow">What the analysis says</p>
-        <h2>Recommendations over screenshots</h2>
-        <p>The artifact is built around decisions, not dashboard decoration: each source table feeds a ranked queue, and each queue item resolves into a recommendation.</p>
-        <p>The strongest opportunities appear where performance upside, measurement quality, and operating readiness overlap.</p>
+      <article>
+        <span>Modeled households</span>
+        <strong id="metric-households">0M</strong>
+        <em>planning scale</em>
+      </article>
+      <article>
+        <span>Package confidence</span>
+        <strong id="metric-confidence">0</strong>
+        <em>average score</em>
+      </article>
+      <article>
+        <span>Ready to present</span>
+        <strong id="metric-ready">0</strong>
+        <em>lead packages</em>
       </article>
     </section>
-    <section class="recommendations">
-      <article><b>01</b><h3>Validate</h3><p>Confirm source definitions before scaling the insight into recurring reporting.</p></article>
-      <article><b>02</b><h3>Prioritize</h3><p>Move the highest-value audience opportunity segment into the next operating review.</p></article>
-      <article><b>03</b><h3>Automate</h3><p>Convert the queue into a stakeholder-ready digest for repeated decisions.</p></article>
+
+    <nav class="tabs" aria-label="Workbench sections">
+      <button class="tab is-active" type="button" data-tab="queue">Package Queue</button>
+      <button class="tab" type="button" data-tab="story">Audience Story</button>
+      <button class="tab" type="button" data-tab="activation">Activation And QA</button>
+    </nav>
+
+    <section class="surface is-active" id="queue" aria-label="Client package queue">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Surface 1</p>
+          <h2>Client Package Queue</h2>
+        </div>
+        <p>Prioritize packages by interpretable Discovery score, measurement confidence, and activation readiness before a sales or client meeting.</p>
+      </div>
+      <div class="queue-layout">
+        <article class="ranking-panel">
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Rank</th>
+                  <th>Audience</th>
+                  <th>Stage</th>
+                  <th>Score</th>
+                  <th>Recommendation</th>
+                </tr>
+              </thead>
+              <tbody id="queue-body"></tbody>
+            </table>
+          </div>
+        </article>
+        <aside class="insight-panel" id="queue-detail"></aside>
+      </div>
+    </section>
+
+    <section class="surface" id="story" aria-label="Audience story builder">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Surface 2</p>
+          <h2>Audience Story Builder</h2>
+        </div>
+        <label class="select-label" for="audience-select">Audience
+          <select id="audience-select"></select>
+        </label>
+      </div>
+      <div class="story-layout">
+        <article class="story-card" id="story-card"></article>
+        <article class="evidence-card">
+          <div class="card-heading">
+            <p class="eyebrow">What they care about</p>
+            <h3>Topic Evidence</h3>
+          </div>
+          <div id="topic-bars" class="bar-list"></div>
+        </article>
+        <article class="evidence-card">
+          <div class="card-heading">
+            <p class="eyebrow">When and where</p>
+            <h3>DMA And Daypart Planner</h3>
+          </div>
+          <div id="dma-grid" class="dma-grid"></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="surface" id="activation" aria-label="Activation and QA readiness">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Surface 3</p>
+          <h2>Activation And QA Readiness</h2>
+        </div>
+        <p>Package recommendations are useful only when the analyst can explain the activation path, caveats, and platform walkthrough steps.</p>
+      </div>
+      <div class="activation-layout">
+        <article class="activation-panel">
+          <div class="card-heading">
+            <p class="eyebrow">Activation</p>
+            <h3>Recommended Next Moves</h3>
+          </div>
+          <div id="activation-list" class="action-list"></div>
+        </article>
+        <article class="activation-panel">
+          <div class="card-heading">
+            <p class="eyebrow">Quality</p>
+            <h3>Package Readiness Checks</h3>
+          </div>
+          <div id="qa-list" class="qa-list"></div>
+        </article>
+        <article class="activation-panel walkthrough">
+          <div class="card-heading">
+            <p class="eyebrow">Walkthrough</p>
+            <h3>Client Meeting Flow</h3>
+          </div>
+          <ol id="package-flow"></ol>
+        </article>
+      </div>
     </section>
   </main>
+  <script src="src/app_data.js"></script>
+  <script src="src/app.js"></script>
 </body>
 </html>
